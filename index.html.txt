@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Teste</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="text">
+        <h4>Hello, I hope you are doing wel.</h4>
+        <p>Attached, I am sending the Ibovespa fluctuation for today</p>
+        <p>For more detailed information,
+             I suggest visiting the <a class="link" href="https://statusinvest.com.br/indices/ibovespa" target="_blank">StatusInvest</a> website.</p>
+             <br>
+        <p>Att,</p>
+        <h5>Email: <a>lipe.q.souza@gmail.com</a></h5>
+        <h5>Instagram: <a href="https://instagram.com/felipefelps.19">felipefelps.19</a></h5>
+        <br>
+    </div>
+    <div class="padd">
+        <div class="text">
+            <h4>Created by: <a href="https://www.github.com/FerelpsFelps" target="_blank">Felipe</h4> </p>
+    </div>
+</body>
+</html>
