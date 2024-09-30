@@ -9,8 +9,8 @@ date = datetime.today().strftime('%Y-%m-%d')
 
 # Definindo os componentes do email
 password = open('Senha App.txt', 'r').read() # Você precisa ter uma senha de app do gmail. Você pode passá-la diretamente
-from_email = 'py.estudos.onbtcd@gmail.com'
-to_email = 'py.estudos.onbtcd@gmail.com'
+from_email = 'seuemail@gmail.com'
+to_email = 'emailpara@gmail.com'
 subject = f'IBOVESPA - {date} '
 body = open('pscreen_email/index.html.txt', 'r', encoding='utf-8').read()
 
